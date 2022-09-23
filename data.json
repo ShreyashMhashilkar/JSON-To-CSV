@@ -1,0 +1,24 @@
+{
+    "emp_details":[
+        {
+            "name":"john",
+            "email":"john34@gmail.com",
+            "profile":"developer"
+        },
+        {
+            "name":"noah",
+            "email":"noah678@gmail.com",
+            "profile":"consultant"
+        },
+        {
+            "name":"peter",
+            "email":"peter744@gmail.com",
+            "profile":"developer"
+        },
+        {
+            "name":"ray",
+            "email":"ray498@gmail.com",
+            "profile":"developer"
+        }
+    ]
+}
